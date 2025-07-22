@@ -1,0 +1,15 @@
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.AssemblyInfoInputs.cache
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.AssemblyInfo.cs
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.csproj.CoreCompileInputs.cache
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.sourcelink.json
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\bin\Debug\net8.0\TiposDeString.exe
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\bin\Debug\net8.0\TiposDeString.deps.json
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\bin\Debug\net8.0\TiposDeString.runtimeconfig.json
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\bin\Debug\net8.0\TiposDeString.dll
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\bin\Debug\net8.0\TiposDeString.pdb
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.dll
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\refint\TiposDeString.dll
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.pdb
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\TiposDeString.genruntimeconfig.cache
+E:\Programas\C#\RocketSeat\TiposDeString\TiposDeString\obj\Debug\net8.0\ref\TiposDeString.dll
