@@ -17,7 +17,9 @@ class Program
         string meuNomeSemEspaco = meuNome.Trim();
 
         bool comecaComLetraW = meuNomeSemEspaco.StartsWith("W");
+        bool existe = texto.Contains("curso");
 
+        Console.WriteLine(existe);
         Console.WriteLine(comecaComLetraW);
         Console.WriteLine(letra);
         Console.WriteLine(numero);
