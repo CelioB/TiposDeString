@@ -15,12 +15,16 @@ class Program
 
         string meuNome = "           Wellington        ";
         string meuNomeSemEspaco = meuNome.Trim();
+        string textoAposReplace = meuNomeSemEspaco.Replace('e', '7');
+
 
         bool comecaComLetraW = meuNomeSemEspaco.StartsWith("W");
-        bool existe = texto.Contains("curso");
+        bool existe1 = texto.Contains("curso");
+        bool existe2 = texto.Equals("curso");
 
         Console.WriteLine(existe);
         Console.WriteLine(comecaComLetraW);
+        Console.WriteLine(textoAposReplace);
         Console.WriteLine(letra);
         Console.WriteLine(numero);
         Console.WriteLine(espaco);
